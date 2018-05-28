@@ -1,0 +1,17 @@
+.curvas{
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    margin-top: 9px;
+}
+
+.alertahome{
+     color: #3a87ad;
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+}
+
+.alertaInfo{
+	    color: #c09853;
+    background-color: #fcf8e3;
+    border-color: #faebcc;
+}
